@@ -6,3 +6,4 @@
 ## Start
 <pre><code>python3 pyspiel.py</code></pre>
 
+![Hunt the mole screenshot](https://github.com/BorisDvn/pygame/blob/main/huntthemole.png "Hunt the mole screenshot")
